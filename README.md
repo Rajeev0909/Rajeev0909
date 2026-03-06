@@ -78,14 +78,6 @@ An AI-powered application that automatically removes image backgrounds.
 
 ---
 
-## 📊 GitHub Stats
-
-https://github-readme-stats.vercel.app/api?username=Rajeev0909&show_icons=true&theme=radical
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeev0909&layout=compact
-
----
-
 ## 📫 Connect With Me
 
 📧 Email: rajeevranjansharma572@gmail.com
